@@ -1,0 +1,5 @@
+.list-con {
+  list-style-type: none;
+  display: flex;
+  margin: 15px;
+}

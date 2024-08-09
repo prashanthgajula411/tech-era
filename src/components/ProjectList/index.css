@@ -1,0 +1,4 @@
+.project-list-con {
+  display: flex;
+  flex-wrap: wrap;
+}
